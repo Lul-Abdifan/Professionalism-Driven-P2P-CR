@@ -2,7 +2,7 @@
   "homepage": "https://Lul-Abdifan.github.io/Todo-Js",
   "name": "webpack-setup",
   "version": "1.0.0",
-  "description": "",
+  "description": "<a name=\"readme-top\"></a>",
   "private": "true",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -29,7 +29,7 @@
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.27.5",
     "gh-pages": "^5.0.0",
-    "hint": "^7.1.5",
+    "hint": "^7.1.8",
     "html-webpack-plugin": "^5.5.0",
     "node-sass": "^8.0.0",
     "sass": "^1.60.0",
